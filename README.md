@@ -21,3 +21,5 @@ Este repositório documenta a exploração do núcleo do computador. Os projetos
 * **POSIX Threads (pthreads):** Biblioteca padrão para manipulação de concorrência e threads.
 * **GCC (GNU Compiler Collection):** Compilador utilizado para as rotinas em C.
 * **Linux:** Ambiente principal de execução e testes.
+
+## 
